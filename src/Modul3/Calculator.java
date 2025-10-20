@@ -9,11 +9,11 @@ public class Calculator {
             case '*' -> a * b;
             case '/' -> {
                 if (b == 0) {
-                    throw new ArithmeticException("Pembagian dengan nol tidak diperbolehkan!");
+                    throw new ArithmeticException("Zero division");
                 }
                 yield a / b;
             }
-            default -> throw new IllegalArgumentException("Operator tidak valid!");
+            default -> throw new IllegalArgumentException("Operator must be one of (+, -, *, /)!");
         };
     }
 
