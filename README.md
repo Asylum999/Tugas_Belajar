@@ -1,30 +1,31 @@
-# Program Kalkulator Sederhana
-Program ini dibuat sebagai penyelesaian **Codelab 1 dan Codelab 2** pada Modul 3 Pemrograman Lanjut.
-Program ini menerima dua angka dan operator matematika, kemudian menampilkan hasil perhitungannya.
+# Simple Calculator Program
+This program was created as a solution for Codelab 1 and Codelab 2 in Module 3 of Advanced Programming.
+The program accepts two numbers and a mathematical operator, then displays the result of the calculation.
+ngannya.
 
 ## ✨ **Fitur**
-- Operasi Penjumlahan (+)
-- Operasi Pengurangan (-)
-- Operasi Perkalian (*)
-- Operasi Pembagian (/)
+- Addition Operation (+)
+- Subtraction Operation (-)
+- Multiplication Operation (*)
+- Division Operation (/)
 
-## 🚀 **Cara Menjalankan Program**
-1. Jalankan program di IntelliJ IDEA
-2. Pilih opsi 1.kalkulator
-3. Masukan angka pertama
-4. Masukkan operator (+, -, *, /)
-5. masukan angka kedua
-6. Hasil akan di tampilkan
+## 🚀 **How to run the program**
+1. Run the program in IntelliJ IDEA
+2. Select option 1. Calculator
+3. Enter the first number
+4. Enter the operatiom (+, -, *, /)
+5. Enter the second number 
+6. the result will be displayed
 
 ## **📌 Contoh Output**
 Menu:
-1. Kalkulator
+1. Calculator
 2. Exit 
-- Pilih Opsi: 1
-- Masukan angka pertama: 1
-- Masukkan operator (+, -, *, /): +
-- Masukkan angka kedua: 1
-- Hasil: 2.0
+- Select option: 1
+- Enter the first number: 1
+- Enter the Operation (+, -, *, /): +
+- Enter the second number : 1
+- Result: 2.0
 
 
 
