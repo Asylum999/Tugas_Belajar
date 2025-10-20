@@ -16,4 +16,5 @@ public class Calculator {
             default -> throw new IllegalArgumentException("Operator tidak valid!");
         };
     }
+
 }
