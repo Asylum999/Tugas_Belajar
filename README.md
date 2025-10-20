@@ -16,6 +16,16 @@ Program ini menerima dua angka dan operator matematika, kemudian menampilkan has
 5. masukan angka kedua
 6. Hasil akan di tampilkan
 
+## **📌 Contoh Output**
+Menu:
+1. Kalkulator
+2. Exit 
+- Pilih Opsi: 1
+- Masukan angka pertama: 1
+- Masukkan operator (+, -, *, /): +
+- Masukkan angka kedua: 1
+- Hasil: 2.0
+
 
 
 
